@@ -1,0 +1,216 @@
+h1{
+    font-size: 30px !important;
+    color: white;
+    margin: 0;
+}
+h1:hover{
+    color: rgb(85, 73, 73);
+}
+h2{
+    font-size: 13px !important;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 15px;
+    color: rgb(158, 143, 143);
+}
+body{
+    background-color: rgb(31, 29, 29) !important;
+    margin: 0;
+}
+.box1{
+    font-size: 25px !important;
+    font-family:'Montserrat', sans-serif;
+    position: absolute ;
+}
+.box2{
+    padding-left: 750px;
+    color: rgb(158, 143, 143);
+}
+.box1:hover{
+    text-decoration: underline !important;
+}
+.box2:hover{
+  text-decoration: underline;
+}
+.box3{
+    font-size: 25px !important;
+    font-family:'Montserrat', sans-serif;
+    position: absolute ;
+    padding-top: 20px;
+}
+.box4{
+    padding-left: 750px;
+    padding-top: 20px;
+    color: rgb(158, 143, 143);
+}
+.box3:hover{
+    text-decoration: underline;
+}
+.box4:hover{
+ text-decoration: underline;
+}
+.box5:hover{
+    text-decoration: underline;
+}
+.box5{
+    font-size: 25px !important;
+    font-family:'Montserrat', sans-serif;
+    position: absolute ;
+    padding-top: 20px;
+}
+.right{
+    color: white;
+    margin-left: 150px;
+    position: absolute;
+}
+.left-a{
+    color: white;
+    margin-left: 100px;
+    position: absolute;
+}
+
+
+
+
+/*images*/
+.focus{
+    padding-left: 400px;
+}
+.playlist{
+    height: 50px;
+}
+.anchor{
+    text-decoration: none;
+}
+.image1{
+    height: 160px;
+    width: 160px;
+    border-radius: 2%;
+}
+
+.music{
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 10px 10px;
+    margin-top: 20px !important;
+}
+.music:hover{
+    background-color: rgb(71, 68, 68);
+}
+.git{
+    margin-left:380px;
+    position: absolute;
+    margin-top: 40px;
+    display: block;
+}
+
+
+
+
+
+
+/*home page*/
+.spotify{
+    position:fixed;
+    width: 350px;
+    height: 800px;
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.demo{
+    margin-top: 5px !important;
+    position: absolute;
+    color: white;
+}
+.heading1{
+    margin-left:50px;
+    color: white;
+    font-size: 25px !important;
+    margin-top: 10px;
+}
+.menu1{
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+}
+.menu2{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.heading2{
+    margin-left: 40px;
+    color: white;
+    margin-top: 30px;
+}
+.menu3{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.menu4{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.menu5{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.heading2:hover{
+    color: rgb(61, 32, 32);
+    font-size: 60px;
+}
+.home{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+/*front logo*/
+
+.navbar{
+    height: 70px;
+    background-color: black;
+    margin-left: 280px;
+}
+.button{
+    margin-left: 840px;
+    position: absolute;
+    text-decoration: none;
+}
+.downlode{
+   margin-left: 600px;
+   position: absolute;
+   text-decoration: none;
+}
+.signup{
+   margin-left: 750px;
+   position: absolute;
+   text-decoration: none;
+}
+.support{
+  margin-left: 500px;
+  position: absolute;
+  text-decoration: none;
+}
+.premium{
+    margin-left: 400px;
+    position: absolute;
+    text-decoration: none;
+}
+a{
+    color: rgb(209, 218, 226) !important ;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif ;
+    font-size: 14px;
+}
+a:hover{
+    text-decoration: underline;
+    color: white;
+}

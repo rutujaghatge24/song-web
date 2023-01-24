@@ -1,0 +1,180 @@
+.spotify{
+    position:fixed;
+    width: 400px;
+    height: 800px;
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.demo{
+    position: absolute;
+    color: white;
+}
+.heading1{
+    margin-left:50px;
+    color: white;
+    font-size: 30px;
+}
+.menu1{
+    position: absolute;
+    color: white;
+    margin-top: 40px;
+}
+.menu2{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.heading2{
+    margin-left: 40px;
+    color: white;
+    margin-top: 30px;
+}
+.menu3{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.menu4{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.menu5{
+    position: absolute;
+    color: white;
+    margin-top: 30px;
+}
+.heading2:hover{
+    color: rgb(61, 32, 32);
+    font-size: 60px;
+}
+h1{
+    font-size: 25px !important;
+    color: white;
+}
+h2{
+    font-size: 15px !important;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.home{
+    padding-top: 30px;
+}
+
+
+
+
+.para{
+    position: absolute;
+}
+.para1{
+    color:  rgb(167, 158, 158);
+    margin-top: 20px;
+}
+.body-color{
+     background: linear-gradient(45deg, var(--primary), var(--secondary));
+     background: linear-gradient(top, rgb(83, 54, 54),100%,rgb(85, 58, 58));
+}
+:root{
+    --primary:rgb(83, 54, 54);
+    --secondary:rgb(85, 58, 58) ;
+}
+
+.image1{
+    height:230px;
+    width: 230px;
+    margin-top:100px;
+    position: absolute;
+    margin-left: 450px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 10px 10px;
+}
+h1{
+    color: white;
+}
+.body-color{
+       height: 370px;
+}
+.div1{
+    position:absolute;
+    color: white;   
+    height: 250px;
+    margin-left: 700px;
+    margin-top:100px;
+}
+.peace{
+    font-size: 80px !important;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+}
+
+#icon{
+    width: 80px;
+    cursor: pointer;
+    position: absolute;
+}
+.div3{
+    margin-left: 50px;
+}
+.icon2{
+    margin-left: 100px !important;
+    color: white;
+    margin-top: 20px;
+}
+.icon1{
+    margin-left: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+
+
+.icon1{
+    margin-left: 20px;
+    color: white;
+}
+.div2{
+    height: 700px;
+    margin-left: 400px;
+}
+.div2{
+    background-color: rgb(59, 17, 17);
+}
+
+
+table {
+    border-collapse: collapse;
+    width:90%;
+    margin-left: 60px;
+    margin-top: 30px;
+    color: #ddd;
+}
+.il{
+    margin-top: 20px;
+    position: absolute;
+    margin-left: 20px;
+}
+.io{
+    margin-left: 75px;
+    margin-top: 20px;
+    position: absolute;
+}
+.os{
+    margin-left: 75px;
+    margin-top: 35px;
+} 
+.line{
+    border-bottom: 1px solid white !important;
+}
+.num{
+    position: absolute ;
+    margin-top: 30px;
+}
+  
+
+
+/*navbar*/
+
+
+
+
